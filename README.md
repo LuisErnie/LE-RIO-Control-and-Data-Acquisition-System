@@ -4,7 +4,8 @@ LOW-level Engineering modular data acquisition and control hardware platform. Th
 
 The system is designed around the DE-10 Nano FPGA board from Terasic, although any embedded controller can be adapted to interface with the two 40-pin IDC connectors.
 
-*Fully Modular I/O interface.
-*Expansion Ports with 24V and 5V Power and Signal Isolation.
-*Single 24V Power Supply Required.
-*Multiple Communications Interfaces Supported, RS-485, CAN, RS-232, USB, SPI and I2C.
+## Features
+- Fully Modular I/O interface.
+- Expansion Ports with 24V and 5V Power and Signal Isolation.
+- Single 24V Power Supply Required.
+- Multiple Communications Interfaces Supported, RS-485, CAN, RS-232, USB, SPI and I2C.
